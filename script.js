@@ -14,7 +14,7 @@ function checkIfLucky(birthday) {
       output.innerHTML = "Please enter valid inputs"
       return false
   }
-  if (sum % number === 0) {
+  if (sum % number.value === 0) {
     output.innerText = "Congratulations! You're Birthday is lucky!";
   } else {
     output.innerText = "Uh-Oh! You're Birthday not is lucky!";
