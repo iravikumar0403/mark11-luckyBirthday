@@ -1,5 +1,5 @@
 # Lucky Birthday
-### Translates User entered text into Minion Language with the help of external API.
+### Takes a number and birthday and shows if the number is lucky or not.
 
 # How to use:
  - Select Birthday from date dropdown.
